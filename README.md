@@ -1,4 +1,4 @@
-# 🚀 AI Engineer & NLP Researcher | GIU Data Science
+# 🚀Aspiring AI Engineer & NLP Researcher | GIU Data Science
 
 Data Science student at the **German International University (GIU)** with a minor in **Software Engineering**. I specialize in bridging the gap between State-of-the-Art (SOTA) research and production-grade software.
 
