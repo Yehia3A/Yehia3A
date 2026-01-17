@@ -1,6 +1,6 @@
 # 🚀Aspiring AI Engineer & NLP Researcher | GIU Data Science
 
-Data Science student at the **German International University (GIU)** with a minor in **Software Engineering**. I specialize in bridging the gap between State-of-the-Art (SOTA) research and production-grade software.
+Data Science student at the **German International University (GIU)** with a minor in **Software Engineering**. Focused on learning ML/DL and how to handle data in the real world
 
 ### 🔬 Technical Highlights
 * **NLP Research:** Achieved a **SOTA 86.4% F1-score** in Arabic-English Code-Switched NER, outperforming the CAMELBERT benchmark by 7.2%.
