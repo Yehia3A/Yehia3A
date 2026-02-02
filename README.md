@@ -5,7 +5,7 @@
 
 ---
 
-## 🧰 Tech Arsenal
+## 🧰 Tech 
 
 <p align="center">
   <!-- Core Languages -->
@@ -22,22 +22,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yehiafadly&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehiafadly&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=yehiafadly" alt="Contribution Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/yehiafadly/yehiafadly/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 🔬 Technical Highlights
 - 🧠 **NLP Research:** Achieved **SOTA 86.4% F1-score** in Arabic-English Code-Switched NER  
