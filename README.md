@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Aspiring AI Engineer | GIU Data Science</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+@+GIU;Machine+Learning+%26+Deep+Learning+Enthusiast;Building+AI+for+Real+World+Impact;Aspiring+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+Student+@+GIU;Machine+Learning+%26+Deep+Learning+Explorer;Building+AI+for+Real+World+Impact;Aspiring+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
