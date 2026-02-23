@@ -177,12 +177,12 @@ class YehiaFadly:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yehia3A&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00f7ff&title_color=00f7ff&icon_color=00f7ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehia3A&layout=compact&theme=tokyonight&border_color=00f7ff&title_color=00f7ff"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Yehia3A&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00f7ff&title_color=00f7ff&icon_color=00f7ff"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yehia3A&layout=compact&theme=tokyonight&border_color=00f7ff&title_color=00f7ff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yehia3A&theme=tokyonight&border=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff"/>
+  <img src="https://streak-stats.demolab.com/?user=Yehia3A&theme=tokyonight&border=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff"/>
 </div>
 
 ---
