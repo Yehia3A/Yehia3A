@@ -181,13 +181,7 @@ class YehiaFadly:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehia3A&layout=compact&theme=tokyonight&border_color=00f7ff&title_color=00f7ff"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yehia3A&theme=tokyonight&border=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yehia3A&theme=tokyo-night&border_color=00f7ff&color=00f7ff&line=0a3d62&point=ffffff&hide_border=false"/>
-</div>
+>
 
 ---
 
