@@ -199,7 +199,7 @@ Relevant Coursework: Database Systems Design · Statistical Analysis · Cloud Co
 
 ## 🌍 Languages
 
-🇬🇧 English — Fluent &nbsp;&nbsp;|&nbsp;&nbsp; 🇸🇦 Arabic — Native
+🇬🇧 English — Fluent &nbsp;&nbsp;|&nbsp;&nbsp; 🇸🇦 Arabic — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇷🇺 Russian — Beginner   
 
 ---
 
