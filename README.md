@@ -60,7 +60,7 @@ class YehiaFadly:
 
 | 🔬 Domain | 🚀 Achievement | 📊 Impact |
 |-----------|---------------|-----------|
-| **NLP Research** | SOTA Arabic-English Code-Switched NER | **86.4% F1** — beats CAMELBERT (79.2%) & Ensembles (81.7%) |
+| **NLP Research** | SOTA Arabic-English Code-Switched NER | **86.4% F1** — beats CAMELBERT (79.2%)|
 | **LLM Engineering** | Fine-tuned `facebook/opt-1.3b` with **LoRA** | Deployed IAM policy auditor on Hugging Face Spaces |
 | **Computer Vision** | **YOLOv12** + **DeepSORT** tracking pipeline | Real-time traffic sign detection on video streams |
 | **Data Engineering** | NoSQL multi-DB retail analytics | Cleaned & analyzed **400k+** records (MongoDB + Cassandra) |
