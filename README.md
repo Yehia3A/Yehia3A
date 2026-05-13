@@ -48,7 +48,6 @@ class YehiaFadly:
         "Full-Stack AI Systems"
     ]
 
-    currently   = "Writing SOTA thesis on Arabic-English Code-Switched NER"
     goal        = "Build AI that creates measurable, real-world impact"
 ```
 
