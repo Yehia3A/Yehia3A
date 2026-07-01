@@ -206,6 +206,6 @@ Relevant Coursework: Database Systems Design · Statistical Analysis · Cloud Co
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0a3d62,100:0d1117&height=120&section=footer"/>
 
-*"AI isn't just about building models — it's about building impact."*
+*"AI isn't just about building models — it's about making people's lives better."*
 
 </div>
