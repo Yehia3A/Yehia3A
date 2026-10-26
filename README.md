@@ -191,7 +191,7 @@ class YehiaFadly:
 
 🎓 B.Sc. Data Science | Minor: Software Engineering *(2022 – 2026, Graduated)*
 
-Relevant Coursework: Database Systems Design · Statistical Analysis · Cloud Computing (AWS) · Data Structures · Software Architecture · Calculus I & II · Project Management
+Relevant Coursework: Machine learning · Deep Learning · Database Systems Design · Statistical Analysis · Cloud Computing (AWS) · Data Structures & Algorithms · Software Architecture · Calculus I & II · Project Management
 
 ---
 
