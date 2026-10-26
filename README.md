@@ -205,6 +205,4 @@ Relevant Coursework: Database Systems Design · Statistical Analysis · Cloud Co
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0a3d62,100:0d1117&height=120&section=footer"/>
 
-*"Good AI engineering isn't only knowing how to build models — it's knowing when not to."*
-
 </div>
